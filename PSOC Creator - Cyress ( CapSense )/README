@@ -6,4 +6,4 @@ More info for this IC: https://www.cypress.com/part/cy8c4024azi-s413
 Project 1 : Control of 4 LEDs on the board with capacitive buttons (CapSense).
 Project 2 : An algorithm that is controlled by the capacitive buttons (CapSense) on the board, finds the product of two entered numbers and finds the closest prime number to the result.
 Project 3 : Control of 4 LEDs on the board with capacitive slider (CapSense).
-Project 4 : Control of 4 LEDs dimmer on the board with capacitive slider (CapSense).
+Project 4 : Control of 4 LEDs dimmer on the board with capacitive slider (CapSense) which communicate PC using UART.
